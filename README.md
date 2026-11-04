@@ -121,7 +121,7 @@ My background is mostly in **3D content creation**, **game modding** and
 
 ![VS Code, Visual Studio, CMake, Git, GitHub, Bash, Linux, Windows, Debian, MySQL, PostgreSQL, MongoDB, Redis, SQLite, Obsidian, LaTeX, Regex, Markdown](https://skillicons.dev/icons?i=vscode,visualstudio,cmake,git,github,bash,linux,windows,debian,mysql,postgres,mongodb,redis,sqlite,obsidian,latex,regex,md&theme=dark&perline=10)
 
-~~btw i dont use arch~~
+~~i dont use arch btw~~
 
 **also**
 
