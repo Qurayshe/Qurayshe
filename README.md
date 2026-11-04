@@ -1,0 +1,213 @@
+<!--
+  ============================================================================
+   Qurayshe / Qurayshe  --  GitHub Profile README
+  ============================================================================
+   Theme : tokyonight
+     bg #1a1b27  blue #7aa2f7  purple #bb9af7  cyan #7dcfff
+     green #9ece6a  pink #f7768e  grey #565f89
+   Note  : ASCII only by design. No emoji anywhere.
+   Status: every widget URL below was verified to return HTTP 200.
+   Map   : see "How this README works" near the bottom.
+  ============================================================================
+-->
+
+<div align="center">
+
+---
+
+## `Index`
+
+|                                    |                                       |                                                |
+| :--------------------------------- | :------------------------------------ | :--------------------------------------------- |
+| [`01`](#about-me) About me        | [`02`](#current-focus) Current focus | [`03`](#tech-stack) Tech stack                |
+| [`04`](#how-i-ship) How I ship    | [`05`](#stats) Stats                 | [`06`](#pinned-projects) Pinned projects      |
+| [`07`](#streak) Streak            | [`08`](#summary-cards) Summary cards | [`09`](#metrics) Metrics                      |
+| [`10`](#contribution-snake) Snake | [`11`](#a-little-math) Math          | [`12`](#how-this-readme-works) How this works |
+
+---
+
+## `About me`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<details>
+<summary><b>>> details (click)</b></summary>
+
+<br />
+
+`I am `
+
+```C++
+ktk == Qurayshe; // that's my username a lot of the time!
+```
+
+`My background is mostly in `
+
+> [!TIP]
+> `You can learn more at `
+
+</details>
+
+---
+
+## `Current focus`
+
+- `input`
+- `input`
+- `input`
+- `input`
+- `input`
+- `input`
+- `input`
+
+> [!NOTE]
+> `That last checkbox has been open for an embarrassingly long time.`
+
+---
+
+## `Tech stack`
+
+<div align="center">
+
+---
+
+## `How I ship`
+
+```
+flowchart LR
+    A["(1) Idea<br/><sub>usually at 2 a.m.</sub>"] --> B["(2) Prototype<br/><sub>ugly on purpose</sub>"]
+    B --> C{"does it<br/>run?"}
+    C -- "no" --> D["(3) Debug<br/><sub>coffee #4</sub>"]
+    D --> B
+    C -- "sometimes" --> E["(4) Optimize<br/><sub>premature, obviously</sub>"]
+    E --> F["(5) Ship it"]
+    F --> G["(6) Blender / SFM<br/><sub>make it look real</sub>"]
+    G --> H["(7) Document"]
+    H -. "never" .-> A
+```
+
+---
+
+## `Stats`
+
+<div align="center">
+
+> [!IMPORTANT]
+> `These cards come from `
+
+---
+
+## `Pinned projects`
+
+<div align="center">
+
+---
+
+## `Streak`
+
+<div align="center">
+
+---
+
+## `Summary cards`
+
+<div align="center">
+
+> [!NOTE]
+> `These four cards are `
+
+---
+
+## `Metrics`
+
+<div align="center">
+
+> [!TIP]
+> `Built by `
+
+---
+
+## `Contribution snake`
+
+<div align="center">
+
+---
+
+## `A little math`
+
+`Because GitHub renders LaTeX now:`
+
+$$
+\text{idea} \;+\; \text{coffee} \;\xrightarrow{\;3\text{ a.m.}\;}\; \text{prototype}
+\;\;\Longrightarrow\;\;
+\underbrace{\text{ship}}_{\text{eventually}}
+$$
+
+`and, more precisely:`
+
+$$
+\lim_{\text{deadline} \to 0} \frac{\text{features}}{\text{time}} = \infty
+$$
+
+---
+
+## `How this README works`
+
+<details>
+<summary><b>>> full map of every widget (click)</b></summary>
+
+<br />
+
+### `Rendered live by third parties`
+
+| #  | Section                       | Service                                                                             | Endpoint                                 |
+| :- | :---------------------------- | :---------------------------------------------------------------------------------- | :--------------------------------------- |
+| 01 | banner + footer               | [capsule-render](https://github.com/kyechan99/capsule-render)                        | `capsule-render.vercel.app/api`        |
+| 02 | typing line                   | [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)               | `readme-typing-svg.demolab.com`        |
+| 03 | views badge                   | [ghpvc](https://github.com/antonkomarev/github-profile-views-counter)                | `komarev.com/ghpvc`                    |
+| 03 | other badges                  | [shields.io](https://shields.io)                                                     | `img.shields.io`                       |
+| 03 | tech icons                    | [skillicons](https://github.com/tandpfun/skill-icons)                                | `skillicons.dev/icons`                 |
+| 05 | stats + top langs + repo pins | [github-stats-extended](https://github.com/stats-organization/github-stats-extended) | `github-stats-extended.vercel.app/api` |
+| 07 | streak                        | [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)           | `streak-stats.demolab.com`             |
+| 12 | the hi card                   | [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)         | `quotes-github-readme.vercel.app/api`  |
+
+### `Generated by GitHub Actions in this repo`
+
+| #  | Section       | Workflow                                                    | Output                                           |
+| :- | :------------ | :---------------------------------------------------------- | :----------------------------------------------- |
+| 08 | summary cards | [`profile-cards.yml`](.github/workflows/profile-cards.yml) | `profile-summary-card-output/tokyonight/*.svg` |
+| 09 | metrics       | [`metrics.yml`](.github/workflows/metrics.yml)             | `github-metrics.svg`                           |
+| 10 | snake         | [`snake.yml`](.github/workflows/snake.yml)                 | `output` branch                                |
+
+### `First-run checklist`
+
+1. `Repo `
+2. `strong`
+3. `strong`
+4. `Reload the profile. The `
+
+### `Two services deliberately left out`
+
+`code`
+
+</details>
+
+---
+
+<br />
+
+<div align="center">
+
+[^1]: `Stats cards: `
+    
+[^2]: `Streak, typing line: both by `
+    
+[^3]: `Banner, footer, quote card: `
+    
+[^4]: `Icons: `
+    
+[^5]: `Cards that live in this repo (summary + metrics + snake) are produced by the workflows in `
+    
+`span`
