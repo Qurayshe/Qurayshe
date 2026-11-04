@@ -14,12 +14,12 @@
 
 ## Index
 
-|                                  |                                     |                                              |
-| :------------------------------- | :---------------------------------- | :------------------------------------------- |
-| [01 - About me](#about-me)        | [02 - Current focus](#current-focus) | [03 - Tech stack](#tech-stack)                |
-| [04 - How I ship](#how-i-ship)    | [05 - Stats](#stats)                 | [06 - Pinned projects](#pinned-projects)      |
-| [07 - Streak](#streak)            | [08 - Summary cards](#summary-cards) | [09 - Metrics](#metrics)                      |
-| [10 - Snake](#contribution-snake) | [11 - Math](#a-little-math-22-is-4-quick-maths)          | [12 - How this works](#how-this-readme-works) |
+|                                  |                                                |                                              |
+| :------------------------------- | :--------------------------------------------- | :------------------------------------------- |
+| [01 - About me](#about-me)        | [02 - Current focus](#current-focus)            | [03 - Tech stack](#tech-stack)                |
+| [04 - How I ship](#how-i-ship)    | [05 - Stats](#stats)                            | [06 - Pinned projects](#pinned-projects)      |
+| [07 - Streak](#streak)            | [08 - Summary cards](#summary-cards)            | [09 - Metrics](#metrics)                      |
+| [10 - Snake](#contribution-snake) | [11 - Math](#a-little-math-22-is-4-quick-maths) | [12 - How this works](#how-this-readme-works) |
 
 ---
 
@@ -154,10 +154,9 @@ flowchart TD
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub stats](https://github-stats-extended.vercel.app/api?username=Qurayshe&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github) | ![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Qurayshe&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5) |
 
-> **IMPORTANT** -- These cards come from
-> [github-stats-extended](https://github.com/stats-organization/github-stats-extended),
-> the actively maintained successor to `github-readme-stats`, which is now archived
-> and no longer maintained.
+> **IMPORTANT** 
+> these use [github-stats-extended](https://github.com/stats-organization/github-stats-extended)
+> i used to use `github-readme-stats`, but it's old!!!
 
 ---
 
@@ -276,7 +275,7 @@ values, so swapping the theme means find-and-replace, not a redesign.
 | badge trophy case          | `github-profile-trophy` returns **HTTP 402 Payment Required**; every community mirror is also down                                                         |
 | activity graph             | `github-readme-activity-graph` returns **HTTP 402 Payment Required**                                                                                       |
 | summary-card workflow      | the Action committed nothing and died on `git add ... Invalid status code: 128`; the same cards are now pulled from the project's live API                       |
-| Mermaid diagram            | **restored** -- GitHub renders it natively. Plain-text clients will see the source instead of the picture. |
+| Mermaid diagram            | **restored** -- GitHub renders it natively. Plain-text clients will see the source instead of the picture.                                                   |
 | GitHub alerts (`[!TIP]`) | GitHub-only syntax; replaced with plain blockquotes                                                                                                                |
 | task lists (`- [x]`)     | expand to `input` elements that some viewers print as text; replaced with `[x]` in code spans                                                                  |
 | raw HTML layout            | `div`, `table`, `details`, `picture` and `img` tags are dropped or printed as literal text by strict renderers; replaced with Markdown tables and images |
