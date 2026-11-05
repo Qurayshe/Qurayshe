@@ -73,7 +73,7 @@ ktk == Qurayshe; // that's my username a lot of the time!
 My background is mostly in **3D content creation**, **game modding** and
 **gamedev** -- but I've since branched out into **webdev** and **full-stack** stuff.
 
-> **TIP** -- You can learn more at [qurayshe.github.io](https://qurayshe.github.io).
+> **TIP:** You can learn more at [qurayshe.github.io](https://qurayshe.github.io).
 
 ---
 
@@ -87,7 +87,7 @@ My background is mostly in **3D content creation**, **game modding** and
 - `[ ]` Write Rust without fighting the borrow checker *every* single time
 - `[ ]` Document one (1) project before starting new ones
 
-> **NOTE** -- That last box has been open for a long time.
+> **NOTE:** That last box has been open for a long time.
 
 ---
 
